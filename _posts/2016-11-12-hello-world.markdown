@@ -1,5 +1,5 @@
 ---
-layout: post                    
+layout: default                  
 title:  "Hello World" 
 date:   2016-11-12 22:26:33
 author: Christal
