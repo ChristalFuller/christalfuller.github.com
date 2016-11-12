@@ -11,11 +11,9 @@ highlighter: pygments
 title : Christal Fuller
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Christal
+  email : christal1994@sina.cn
+  github : ChristalFuller
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
