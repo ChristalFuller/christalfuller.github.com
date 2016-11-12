@@ -3,5 +3,12 @@ theme :
   name : bootstrap-3
 layout: default
 ---
-{% include JB/setup %}
-{% include themes/bootstrap-3/post.html %}
+<html>
+<body>
+  {% include header.html %}
+  <div>
+  {{content}}
+  </div>
+  {% include footer.html %}
+</body>
+</html>
